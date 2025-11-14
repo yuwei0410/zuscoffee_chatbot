@@ -50,13 +50,13 @@ This project consists of three separate components that communicate via API call
 
 Follow these steps to run the complete application (backend servers + frontend client) on your local machine.
 
-### 1. Prerequisites
+### Prerequisites
 
 * Python 3.9+
 * Node.js and npm (for the Vue.js frontend)
 * Git
 
-### Clone Repository
+### Get ready
 
 ```bash
 git clone https://github.com/yuwei0410/ZUS_Coffee_chatbot.git
